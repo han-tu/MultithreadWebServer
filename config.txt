@@ -1,0 +1,7 @@
+rootDir=E:\\random\\
+ip=192.168.1.5
+port=80
+
+# VirtualHost: <Nama Domain> <Root Folder>
+VirtualHost: ll.aduhsakit.com E:\\Genshin Impact\\
+VirtualHost: banget.lapar E:\\pip\\
